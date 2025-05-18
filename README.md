@@ -35,7 +35,7 @@ Framework : Streamlit
 Librairies : scikit-learn, pandas, numpy
 ## Installation
 ### Clone the project
-
+git clone https://github.com/ccolins2010/Projet_Python.git
 1 Environement virtuel :
 bash
 python –m venv .venv
