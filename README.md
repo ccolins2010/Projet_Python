@@ -1,4 +1,4 @@
-# Titre
+# Title
 Application web de Machine Leraning de détection de fraude à la carte bancaire
 
 ## Scren-shot
